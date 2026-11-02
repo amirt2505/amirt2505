@@ -2,7 +2,7 @@
 Computer Science student | Software Engineering & Cybersecurity<br><br>I'm a Computer Science student at Southern Connecticut State University, pursuing a minor in Mathematics and expecting to graduate in May 2027.<br><br>I enjoy building practical applications, working with APIs and databases, and understanding how systems operate and stay secure. My experience includes backend development for a university capstone project and a cybersecurity internship investigating security activity with industry tools.<br><br>Selected work<br>Correlation Assistant<br>A team-built educational application for exploring GapMinder datasets and completing correlation exercises. I worked on FastAPI backend functionality, MariaDB integration, and deployment to a university Linux server with Nginx.<br><br>Pet Adoption Web Application<br>A database-backed web application using Flask, JavaScript, and MariaDB, with authentication and asynchronous client-server interactions. Repository link coming soon.<br><br>More projects in progress<br>I'm building additional full-stack, data-focused, and cybersecurity projects. I'll add them here as they are completed and documented.<br>
 
 <br>Technical skills
-Area Tools and technologies
+<br>Area Tools and technologies
 Programming Python, Java, JavaScript, HTML, CSS, SQL
 
 Backend and databases FastAPI, Flask, SQLAlchemy, MariaDB
