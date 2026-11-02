@@ -1,10 +1,17 @@
 # 💫 About Me:
-Computer Science student | Software Engineering & Cybersecurity<br><br>I'm a Computer Science student at Southern Connecticut State University, pursuing a minor in Mathematics and expecting to graduate in May 2027.<br><br>I enjoy building practical applications, working with APIs and databases, and understanding how systems operate and stay secure. My experience includes backend development for a university capstone project and a cybersecurity internship investigating security activity with industry tools.<br><br>Selected work<br>Correlation Assistant<br>A team-built educational application for exploring GapMinder datasets and completing correlation exercises. I worked on FastAPI backend functionality, MariaDB integration, and deployment to a university Linux server with Nginx.<br><br>Pet Adoption Web Application<br>A database-backed web application using Flask, JavaScript, and MariaDB, with authentication and asynchronous client-server interactions. Repository link coming soon.<br><br>More projects in progress<br>I'm building additional full-stack, data-focused, and cybersecurity projects. I'll add them here as they are completed and documented.<br><br>Technical skills<br>| Area | Tools and technologies |
-| --- | --- |
-| Programming | Python, Java, JavaScript, HTML, CSS, SQL |
-| Backend and databases | FastAPI, Flask, SQLAlchemy, MariaDB |
-| Development and deployment | Git, Linux, Nginx, Uvicorn |
-| Security and networking | Microsoft Sentinel, Splunk, KQL, Wireshark |<br>Experience<br>Cyber Threat Investigator Intern | Hunter Strategy | May–Aug 2026<br>Investigated potential security threats using Microsoft Sentinel, Splunk, and KQL, including log analysis and reviewing anomalous activity.<br><br>Education<br>Southern Connecticut State University<br>B.S. in Computer Science, Minor in Mathematics<br>Expected graduation: May 2027<br><br>Connect<br>LinkedIn<br>Email<br>Portfolio website: coming soon
+Computer Science student | Software Engineering & Cybersecurity<br><br>I'm a Computer Science student at Southern Connecticut State University, pursuing a minor in Mathematics and expecting to graduate in May 2027.<br><br>I enjoy building practical applications, working with APIs and databases, and understanding how systems operate and stay secure. My experience includes backend development for a university capstone project and a cybersecurity internship investigating security activity with industry tools.<br><br>Selected work<br>Correlation Assistant<br>A team-built educational application for exploring GapMinder datasets and completing correlation exercises. I worked on FastAPI backend functionality, MariaDB integration, and deployment to a university Linux server with Nginx.<br><br>Pet Adoption Web Application<br>A database-backed web application using Flask, JavaScript, and MariaDB, with authentication and asynchronous client-server interactions. Repository link coming soon.<br><br>More projects in progress<br>I'm building additional full-stack, data-focused, and cybersecurity projects. I'll add them here as they are completed and documented.<br>
+
+<br>Technical skills
+Area Tools and technologies
+Programming Python, Java, JavaScript, HTML, CSS, SQL
+
+Backend and databases FastAPI, Flask, SQLAlchemy, MariaDB
+
+Development and deployment Git, Linux, Nginx, Uvicorn
+
+Security and networking Microsoft Sentinel, Splunk, KQL, Wireshark
+
+<br>Experience<br>Cyber Threat Investigator Intern | Hunter Strategy | May–Aug 2026<br>Investigated potential security threats using Microsoft Sentinel, Splunk, and KQL, including log analysis and reviewing anomalous activity.<br><br>Education<br>Southern Connecticut State University<br>B.S. in Computer Science, Minor in Mathematics<br>Expected graduation: May 2027<br><br>Connect<br>LinkedIn<br>Email<br>Portfolio website: coming soon
 
 
 ## 🌐 Socials:
