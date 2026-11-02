@@ -1,44 +1,9 @@
-# Amir Thompson
+# 💫 About Me:
+Computer Science student | Software Engineering & Cybersecurity<br><br>I'm a Computer Science student at Southern Connecticut State University, pursuing a minor in Mathematics and expecting to graduate in May 2027.<br><br>I enjoy building practical applications, working with APIs and databases, and understanding how systems operate and stay secure. My experience includes backend development for a university capstone project and a cybersecurity internship investigating security activity with industry tools.<br><br>Selected work<br>Correlation Assistant<br>A team-built educational application for exploring GapMinder datasets and completing correlation exercises. I worked on FastAPI backend functionality, MariaDB integration, and deployment to a university Linux server with Nginx.<br><br>Pet Adoption Web Application<br>A database-backed web application using Flask, JavaScript, and MariaDB, with authentication and asynchronous client-server interactions. Repository link coming soon.<br><br>More projects in progress<br>I'm building additional full-stack, data-focused, and cybersecurity projects. I'll add them here as they are completed and documented.<br><br>Technical skills<br>Area	Tools and technologies<br>Programming	Python, Java, JavaScript, HTML, CSS, SQL<br>Backend and databases	FastAPI, Flask, SQLAlchemy, MariaDB<br>Development and deployment	Git, Linux, Nginx, Uvicorn<br>Security and networking	Microsoft Sentinel, Splunk, KQL, Wireshark<br>Experience<br>Cyber Threat Investigator Intern | Hunter Strategy | May–Aug 2026<br>Investigated potential security threats using Microsoft Sentinel, Splunk, and KQL, including log analysis and reviewing anomalous activity.<br><br>Education<br>Southern Connecticut State University<br>B.S. in Computer Science, Minor in Mathematics<br>Expected graduation: May 2027<br><br>Connect<br>LinkedIn<br>Email<br>Portfolio website: coming soon
 
-**Computer Science student | Software Engineering & Cybersecurity**
 
-I'm a Computer Science student at Southern Connecticut State University, pursuing a minor in Mathematics and expecting to graduate in May 2027.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammmirrrr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amir Thompson) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tybthompson@outlook.com) 
 
-I enjoy building practical applications, working with APIs and databases, and understanding how systems operate and stay secure. My experience includes backend development for a university capstone project and a cybersecurity internship investigating security activity with industry tools.
-
-### Selected work
-
-**[Correlation Assistant](https://github.com/GK2026/CSC-400-Project)**  
-A team-built educational application for exploring GapMinder datasets and completing correlation exercises. I worked on FastAPI backend functionality, MariaDB integration, and deployment to a university Linux server with Nginx.
-
-**Pet Adoption Web Application**  
-A database-backed web application using Flask, JavaScript, and MariaDB, with authentication and asynchronous client-server interactions. Repository link coming soon.
-
-**More projects in progress**  
-I'm building additional full-stack, data-focused, and cybersecurity projects. I'll add them here as they are completed and documented.
-
-### Technical skills
-
-| Area | Tools and technologies |
-| --- | --- |
-| Programming | Python, Java, JavaScript, HTML, CSS, SQL |
-| Backend and databases | FastAPI, Flask, SQLAlchemy, MariaDB |
-| Development and deployment | Git, Linux, Nginx, Uvicorn |
-| Security and networking | Microsoft Sentinel, Splunk, KQL, Wireshark |
-
-### Experience
-
-**Cyber Threat Investigator Intern | Hunter Strategy | May–Aug 2026**  
-Investigated potential security threats using Microsoft Sentinel, Splunk, and KQL, including log analysis and reviewing anomalous activity.
-
-### Education
-
-**Southern Connecticut State University**  
-B.S. in Computer Science, Minor in Mathematics  
-Expected graduation: May 2027
-
-### Connect
-
-- [LinkedIn](https://www.linkedin.com/in/amir-thompson-aa70aa280)
-- [Email](mailto:tybthompson@outlook.com)
-- Portfolio website: coming soon
+# 💻 Tech Stack:
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
