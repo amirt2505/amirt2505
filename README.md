@@ -11,8 +11,7 @@ Development and deployment Git, Linux, Nginx, Uvicorn
 
 Security and networking Microsoft Sentinel, Splunk, KQL, Wireshark
 
-<br>Experience<br>Cyber Threat Investigator Intern | Hunter Strategy | May–Aug 2026<br>Investigated potential security threats using Microsoft Sentinel, Splunk, and KQL, including log analysis and reviewing anomalous activity.<br><br>Education<br>Southern Connecticut State University<br>B.S. in Computer Science, Minor in Mathematics<br>Expected graduation: May 2027<br><br>Connect<br>LinkedIn<br>Email<br>Portfolio website: coming soon
-
+<br>Experience<br>Cyber Threat Investigator Intern | Hunter Strategy | May–Aug 2026<br>Investigated potential security threats using Microsoft Sentinel, Splunk, and KQL, including log analysis and reviewing anomalous activity.<br><br>Education<br>Southern Connecticut State University<br>B.S. in Computer Science, Minor in Mathematics<br>Expected graduation: May 2027<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammmirrrr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-thompson-aa70aa280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tybthompson@outlook.com) 
